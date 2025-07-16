@@ -1,0 +1,14 @@
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\bin\Debug\net9.0\SingletonTransaction.exe
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\bin\Debug\net9.0\SingletonTransaction.deps.json
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\bin\Debug\net9.0\SingletonTransaction.runtimeconfig.json
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\bin\Debug\net9.0\SingletonTransaction.dll
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\bin\Debug\net9.0\SingletonTransaction.pdb
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.AssemblyInfoInputs.cache
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.AssemblyInfo.cs
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.csproj.CoreCompileInputs.cache
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.dll
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\refint\SingletonTransaction.dll
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.pdb
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\SingletonTransaction.genruntimeconfig.cache
+C:\Users\Exaze Trsa25\singletonPractice\SingletonTransaction\obj\Debug\net9.0\ref\SingletonTransaction.dll
